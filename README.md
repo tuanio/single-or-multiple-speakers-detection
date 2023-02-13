@@ -47,4 +47,4 @@
 - MFA-Conformer: [tuannguyenvananh/mfaconformer-clustering](https://www.kaggle.com/code/tuannguyenvananh/mfaconformer-clustering)
 
 # Wandb experiment logging (train, test)
-- [wandb.ai/tuanio/detect_single_or_multiple_spks](https://wandb.ai/tuanio/detect_single_or_multiple_spks/reports/Single-Or-Multiple-Speakers-Detection--VmlldzozNTQyMjQ0?accessToken=w616y2iej1llkxdxs1583zfa1bb6fnbuamp5r5yxzm5tjtjabfeaummi8kuoz6mx)
+- [wandb.ai/tuanio/detect_single_or_multiple_spks](https://wandb.ai/tuanio/detect_single_or_multiple_spks/reports/Single-Or-Multiple-Speakers-Detection--VmlldzozNTQyNDg0?accessToken=f6riwa44igdw3c3ilqs32tnmtxeao32fv8e66g0vkglu5as795rmx1zq0s8el6ae)
