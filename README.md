@@ -2,7 +2,7 @@
 
 # Survey
 
-![d27a0ca0ab2f11edb71655f93b79a639 map](https://user-images.githubusercontent.com/30165828/218371565-04494451-fd6b-456c-8a3d-b70aac54620e.png)
+![sgle_mtp_spk_diarization](https://user-images.githubusercontent.com/30165828/218372288-5a5e8408-82ec-4d0a-93f0-203f46d21e0f.png)
 
 ## Dataset
 
