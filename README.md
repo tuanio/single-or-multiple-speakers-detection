@@ -1,10 +1,14 @@
 # Single or Multiple speakers detection
 
+## Survey
+
+![sgle_mtp_spk_diarization](https://user-images.githubusercontent.com/30165828/218370978-06da9fa7-3df1-43bb-a8da-13d46b3ebfa4.png)
+
 ## Dataset
 
 ### Original source:
 - Vivos: [https://huggingface.co/datasets/vivos](https://huggingface.co/datasets/vivos)
-- Room Impulse Response:
+- Room Impulse Response: 
 - Musan Noise:
 
 ### Mixture Dataset
