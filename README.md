@@ -1,5 +1,9 @@
 # Single or Multiple speakers detection
 
+# Slide
+
+https://docs.google.com/presentation/d/10Jpm2rLMkhuI4_mkF0qBUQUKfVoF-u6_oSzNxOy_LfY/edit?usp=sharing
+
 # Survey
 
 ![sgle_mtp_spk_diarization](https://user-images.githubusercontent.com/30165828/218372288-5a5e8408-82ec-4d0a-93f0-203f46d21e0f.png)
